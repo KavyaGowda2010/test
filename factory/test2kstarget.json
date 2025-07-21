@@ -1,0 +1,9 @@
+{
+	"name": "test2kstarget",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d773e16-ced8-4c0a-a9ed-e9d98893e151",
+		"tenantId": "fe25bbb2-ecbd-4f08-9e10-61fd3d7be869"
+	}
+}
