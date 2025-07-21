@@ -1,0 +1,9 @@
+{
+	"name": "test1kssource",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "400c96e6-c0b5-4165-bceb-084bef93552c",
+		"tenantId": "fe25bbb2-ecbd-4f08-9e10-61fd3d7be869"
+	}
+}
